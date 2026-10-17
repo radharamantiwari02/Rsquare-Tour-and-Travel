@@ -1,0 +1,6 @@
+{
+  "name": "Rsquare Tour & Travels - Luxury Alpine Odyssey & Expeditions",
+  "description": "Architecting unforgettable private journeys, premium expeditions, and bespoke global travel encounters tailored to discerning wanderers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
